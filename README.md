@@ -1,4 +1,4 @@
 # Liver-Malignancies-Patients-Survival-Analysis
-In this academic clinical project I used machine learning and statistics to analyze survival and clinical characteristics of Liver Malignancies Data.
+In this academic-clinical project I used machine learning and statistics to analyze the data of patients with Liver Malignancies which where treated at the University Hospital of Bonn, Germany. The analysis involves data analysis, survival analysis and clustering algorithms in order to stratify subgroups of patients with high assiciation to survival rate. 
 
-You can see the project with outputs on: file:///C:/Users/elish/OneDrive/Documents/01%20Bar%20Ilan/NRW%20scholarship/Liver-Malignancies-Patients-Survival-Analysis/RMD_Liver_Metastases.html
+The paper can be found at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7416811/
